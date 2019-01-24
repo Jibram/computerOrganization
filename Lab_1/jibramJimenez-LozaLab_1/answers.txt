@@ -1,0 +1,18 @@
+1. It makes a <name>.o file instead of an executable code. According to the documentation of the gcc compiler, it doesn't do the "linking" stage that makes it a runnable file.
+
+2. It specifies that we are giving the output file a specific name.
+3. type "gdb ./<filename>"
+4. gdb break output0.c:<Option>
+	Option could be:
+		Line number
+		main
+		Instruction (Usually in *0x#### format)
+5. run 
+6. type "s" after reaching breakpoint.
+7. 2147483648 [4 bytes/32 bits]
+8. 9223372036854775807 [8 bytes/64 bits]
+9. No it is not, it is 1 digit "smaller". Because of twos complement, the sign makes the negative side larger.
+10. When you negate the most negative number, it is the positive of that number, however, since the size of the posible positive number for signed numbers is one number smaller, it overflows and goes negative.
+
+Collaboration: Douglas Bell and TA.
+

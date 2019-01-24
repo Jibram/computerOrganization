@@ -1,0 +1,8 @@
+Q1. 1.6777216E7. Hex representation is 0x4b800000
+Q2. 1.5798546E7. Hex representation is 0x4b711111
+Q3. I added 
+num1:	.word 0x4b811111
+num2:	.word 0x4b811011
+num3:	.word 0x4b800100
+in different orders and got different answers when i summed it.
+Q4. No it does not obey the associative rule like integers.

@@ -1,0 +1,4 @@
+Q1. It might work if the unassigned temp pointer happens to have a value that it points to as a valid, alligned address.
+Q2. I can just make temp take over a variable that was assigned out of scope before calling the swap function. AKA, feed it the address 0.
+
+

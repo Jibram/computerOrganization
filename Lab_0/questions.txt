@@ -1,0 +1,12 @@
+﻿CSE31 Lab #0
+Jibram Jimenez-Loza
+29 August 2018
+Satvik Kulshreshtha Tue Wed 5-6pm COB 396
+
+Assessment Questions:
+1. While in directory, type “mv <Original filename.ext> <new filename.ext>”
+2. Prints an output file by the name of a.out
+3. Done
+4. Also done - https://en.wikipedia.org/wiki/Printf_format_string
+
+

@@ -1,0 +1,71 @@
+Test Case #1
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of BobCat Bar:
+5
+Please enter the number of wrappers needed to exchange for a new bar:
+2
+How. how much do you have?
+20
+First you buy 4 bars.
+Then, you will get another 2 bars.
+Then, you will get another 1 bars.
+With $20, you will receive a maximum of 7 BobCat Bars!
+-- program is finished running --
+
+Test Case #2
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of BobCat Bar:
+3
+Please enter the number of wrappers needed to exchange for a new bar:
+6
+How. how much do you have?
+14
+First you buy 4 bars.
+Then, you will get another 0 bars.
+With $14, you will receive a maximum of 4 BobCat Bars!
+-- program is finished running --
+
+Test Case #3
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of BobCat Bar:
+2
+Please enter the number of wrappers needed to exchange for a new bar:
+7
+How. how much do you have?
+35
+First you buy 17 bars.
+Then, you will get another 2 bars.
+With $35, you will receive a maximum of 19 BobCat Bars!
+-- program is finished running --
+
+Test Case #4
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of BobCat Bar:
+12
+Please enter the number of wrappers needed to exchange for a new bar:
+3
+How. how much do you have?
+2000
+First you buy 166 bars.
+Then, you will get another 55 bars.
+Then, you will get another 18 bars.
+Then, you will get another 6 bars.
+Then, you will get another 2 bars.
+With $2000, you will receive a maximum of 247 BobCat Bars!
+-- program is finished running --
+
+Test Case #5
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of BobCat Bar:
+17
+Please enter the number of wrappers needed to exchange for a new bar:
+4
+How. how much do you have?
+5423
+First you buy 319 bars.
+Then, you will get another 79 bars.
+Then, you will get another 19 bars.
+Then, you will get another 4 bars.
+Then, you will get another 1 bars.
+With $5423, you will receive a maximum of 422 BobCat Bars!
+-- program is finished running --

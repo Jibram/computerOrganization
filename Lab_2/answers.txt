@@ -1,0 +1,19 @@
+Q1. When gdb is active, type run
+Q2. set arglist then run arglist
+Q3. break <option>
+Q4. break if [conditional expression]
+Q5. next
+Q6. nexti
+Q7. continue
+Q8. show env <varname>
+Q9. commands 1
+	print <varname>
+	end
+Q10. show env
+Q11. quit or q
+Q12. char array properties cause it to run into issues when you overwrite a shorter string over a long string. char array must and in a null terminator.
+Q13.	breaks at line 15:
+		scanf("%d",input);
+	because earlier it took the address and put an unsigned integer as the value for input and is now trying to add an unsigned integer with a new value.
+Q14. Remove the & from line 11.
+Q15. Send the address of sum and make the parameter of read_values a pointer so it can manipulate sum all the way from the function.
